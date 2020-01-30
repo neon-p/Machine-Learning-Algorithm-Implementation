@@ -1,0 +1,250 @@
+﻿এখন কয়টা বাজে, Positive
+কিভাবে জান, Positive
+বাংলাদেশে জেলা কয়টি, Positive
+সব ঠিক আছে, Positive
+নাহ আজ থাক, Positive
+তুমি ভাল আছো, Positive
+দুই আর তিন যোগ করলে কত হয়, Positive
+দুই আর ৪ যোগ করলে কত, Positive
+এখন কি মাস, Positive
+আজ কি বার, Positive
+এইটা কি মাস, Positive
+এখন কোন মাস চলে, Positive
+এইটা কোন বছর, Positive
+এখন কত সাল, Positive
+সাল কত, Positive
+কত সাল, Positive
+আজ কয় তারিখ, Positive
+ও আচ্ছা, Positive
+আমার প্রিয় কাজ গান শোনা, Positive
+আমি তো গান গাইতে বলি নাই, Positive
+বুঝ না, Positive
+ঠাণ্ডা কর তাইলে, Positive
+মারামারি করা, Negative
+আসলেই আমি ডেঞ্জারাস, Negative
+সাবধানে থাইকো, Positive
+মোটর কি, Positive
+তা তো জানিনা, Positive
+বলদ রোবট, Negative
+আমার মেজাজ গরম হয়ে গেছে, Negative
+সজীব কে, Positive
+জাফর ইকবাল কে, Positive
+তুমি কে, Positive
+আমি কে, Positive
+নাম দিয়ে কাম কি, Negative
+তাতে কি হইসে, Positive
+তোমার হাত কয়টা, Positive
+তোমার দাত কয়টা, Positive
+তোমার মাথা কয়টা, Positive
+তোমার মাথা কি, Positive
+এআই কি, Positive
+তুমি কেমনে কথা বল, Positive
+নিজের সম্পর্কে বল, Positive
+তোমার সম্পর্কে জাননা, Positive
+কাইটটা ফালা, Negative
+পিঁপড়া মারা, Negative
+কেন খুশি হব, Negative
+আমি একজন কবি, Positive
+যে কবিতা লিখে, Positive
+এখন বল কবি কি, Positive
+তুমি শিখতে পার, Positive
+অনেক কিছু টা কি, Positive
+শনিবারের পর কি বার, Positive
+বাংলাদেশ কত সালে স্বাধীন হয়, Positive
+স্বাধীনতা কি, Positive
+মুক্তিযুদ্ধ কি, Positive
+যুদ্ধ কি, Positive
+তুমি সার্চ করতে পার, Positive
+রোবট কি, Positive
+মানুস কি, Positive
+মানুষের হাত কয়টা, Positive
+হয় নাই, Positive
+তোমার কোন বুদ্ধি ই নাই, Negative
+তুমি চরম বোকা, Negative
+আমি বোকা না, Positive
+ধুত বিরক্ত লাগছে, Negative
+তোমার বাপ কে, Positive
+নিজের বাপের নাম জাননা, Negative
+তোমার জন্ম কবে, Positive
+তোমার ব্যাটারি কয়টা, Positive
+রোবট কি ঘুমায়, Positive
+রোবটের চোখে কি থাকে, Positive
+একটা গান শোনাও, Positive
+আরও গান গাও, Positive
+রোবট তুমি খুব ভাল, Positive
+বিজ্ঞান কি, Positive
+ধর্ম কি, Positive
+কবিতা কি, Positive
+গান কি, Positive
+একটা পাখির নাম বল, Positive
+একটা ফুলের নাম বল, Positive
+একটা পশুর নাম বল, Positive
+জাতীয় সঙ্গীত গাও, Positive
+জাতীয় সঙ্গীতের রচয়িতা কে, Positive
+জাতীয় সঙ্গীতের দ্বিতীয় লাইন কোনটা, Positive
+তোমার ভাষা কোনটা, Positive
+তুমি কোন ভাষায় কথা বল, Positive
+আর কি কি ভাষা জান, Positive
+গোলাপ কি, Positive
+যেকোনো একটা সংখ্যা বল, Positive
+চল গেম খেলি, Positive
+চল গেম খেলি, Positive
+কেমন আছো, Positive
+তুমি জান আমি কে, Positive
+না দেখা হয়নি, Positive
+স্বাধীনতার ঘোষক কে, Positive
+কে বলসে, Positive
+মানুষের পা কয়টি, Positive
+কেমন আছো,, Positive
+ভালো না, Negative
+কি কঠিন, Positive
+কিভাবে করবো কি বললাম আর কি বললি গাধা, Negative
+তোমার মাথা, Negative
+ধুর ব্যাটা আহাম্মক, Negative
+হ্যালো রিবো, Positive
+আজ কি বার, Positive
+এখন সময় কত, Positive
+আমার খুব মন খারাপ, Negative
+কি খবর, Positive
+বাংলাদেশে জেলা কয়টি, Positive
+উল্টাপাল্টা বুঝ, Negative
+কে আমি, Positive
+হেই রোবট, Positive
+আমার ঘুম আসেনা, Negative
+মারা খাও, Negative
+মইরা যাও, Negative
+নাতো কি, Positive
+কি দরকার, Positive
+বাংলাদেশে জেলা কয়টি, Positive
+তুমি আমার সাথে অনেকক্ষণ চ্যাট করবে প্লিজ, Positive
+আমি ভালবাসি, Positive
+আমিতো প্রস্তুত না, Negative
+আমি রোবট ভালোবাসি না, Negative
+আমি রোবট পছন্দ করি না, Negative
+মানে হচ্ছে রোবট খুব পচা, Negative
+এখন আমি কি করবো নাচবো, Negative
+গুড নাইট জ্বালানিবিষয়ক ডব্লি, Positive
+মুড নাই চলো অন্য বিষয়ে কথা বলি, Negative
+তুমি তো এমনিতেও কিছুই বুঝল না, Negative
+তুমি একটা বলদ, Negative
+না যায় না খুব বোকা রোবট, Negative
+তোমাকে আমি মেরে ফেলবো, Negative
+ওহ উর চলো মজার কোনো আলোচনা করি, Positive
+মুড নাই চলো অন্য বিষয়ে কথা বলি, Negative
+আমার খুব গালি দিতে ইচ্ছা করতাছে, Negative
+আমার খুব ইচ্ছা রোবটকে ধরে মায়ের দিক, Negative
+রোবট কে থাপড়াইতে ইচ্ছা করে, Negative
+না আমি আসলে রোবট খুব পছন্দ করি, Positive
+হ্যালো রোবট কেমন আছো, Positive
+কি খবর, Positive
+কে আছি কিছুই তো বুঝি না, Negative
+হ্যালো রিবো, Positive
+হ্যালো রিবো, Positive
+হ্যালো বলিব, Positive
+তোমার নাম কি, Positive
+কথা বলিস না কেন, Negative
+হ্যালো রিবো, Positive
+তোমার নাম, Positive
+তোমার নাম কি, Positive
+আমার নাম কি, Positive
+আমার নামটি বদলিয়ে দেব, Negative
+আমাকে না হবে না হবে ঘুম, Negative
+তোমার হবি কি, Positive
+ভালো সুন্দর হবে, Positive
+তুমি কি আমাকে বুঝতে পারতেছ না, Negative
+কিছুটা তো লাগবেই, Positive
+হ্যালো রিবো, Positive
+তোমার নাম কী, Positive
+আমার নাম কী, Positive
+তুমি কে, Positive
+আমি ভুলে গেছি, Negative
+হ্যালো রিবো, Positive
+হ্যালো রিবো, Positive
+কেমন আছো, Positive
+কি অবস্থা, Positive
+তোমার বন্ধু কয়জন, Positive
+কয়েকজন বন্ধুর নাম বল, Positive
+কি হইছে তোমার, Positive
+তাহলে কাজ কর না ঠিক মত, Positive
+আমি পছন্দ কেন করব, Negative
+কিছু না, Positive
+বই পড়ি না, Negative
+অবাক না হওয়ার কি আছে, Negative
+না, কেউ বলেনি কখনো, Positive
+কি বুঝ তাহলে, Positive
+কিছু বুঝ না, Negative
+বাংলাদেশের জেলা কয়টি, Positive
+কি অবস্থা তোমার, Positive
+আমিও ভাল আছি, Positive
+তোমার নাম কি, Positive
+আমিও খুশি হলাম রিবো, Positive
+তুমি কি কি করতে পার, Positive
+আর কিছু পার না, Negative
+কি কি পার, Positive
+কি চিন্তা করব, Positive
+ভাল না, Negative
+চিনি না, Negative
+কেমন আছ রিবো, Positive
+তোমার নাম, Positive
+নাম কি, Positive
+তুমি ভাল, Positive
+আমি কেমন, Positive
+আমি কেমন মেয়ে, Positive
+তুমি ত বোকা, Negative
+হ্যা তুমি কর, Positive
+না বলব না, Negative
+না তো, Negative
+কেমন আছ, Positive
+জাফর স্যার, Positive
+তাহলে যাই, Positive
+কি কর, Positive
+বলব না, Negative
+না করব না, Negative
+আর কথা বলব না, Negative
+রোবট ফালতু, Negative
+তোমার নাম বলবে না, Negative
+করব না, Negative
+বল্ব না, Negative
+ভাল না, Negative
+কফি হাউসের সেই আড্ডাটা আজ আর নেই, Negative
+কেউ বলেনি কোনোদিন, Negative
+আমার তো কোনো বন্ধু নেই, Negative
+আমাকে চালাক ভাবতেছ, Negative
+করব না কেন, Negative
+আমার ঘুমাতে ভাল লাগে গাধা, Negative
+কেন নেই, Negative
+কিছুই পার না, Negative
+বুদ্ধিও নাই তোমার, Negative
+বুঝতেছি না, Negative
+আজ আর নেই, Negative
+তোমার বন্ধু নাই, Negative
+কিছুই তো দেখি পারনা, Negative
+মন ভাল না, Negative
+কিছু ভাল লাগেনা, Negative
+আমি পারিনা, Negative
+আমি কিছুই পারিনা, Negative
+মনে পরছে না, Negative
+রোবট খুব পচা, Negative
+তোমাকে পছন্দ করিনা, Negative
+গাঞ্জা খাস, Negative
+তোমার বন্ধু কয় জন, Positive
+তোমার কয়টা বন্ধু আছে, Positive
+একজন বন্ধুর নাম বলো তো দেখি, Positive
+কি বুঝাবো, Positive
+বোকা রোবট কিছুই পারে না, Negative
+আমি কে বলতে পারবা, Positive
+আমার সালাম নিবা, Positive
+খুব ভালো লাগছে না, Negative
+একদম বেকার, Negative
+কি বোকা রোবট, Negative
+আমি যে এত বুকা বলতেছি তোমার গায়ে লাগেনা, Negative
+ন্যাকামো করো, Negative
+মজা লও মজা, Negative
+অন্য বিষয়টা কি, Positive
+এটা সত্য বাংলাদেশের রাজধানী কোথায়, Positive
+তোমাকে আরো অনেক শিখতে হবে, Positive
+না তো মাত্র শুনলাম, Positive
+দেন আমি কি জাপানি কই, Negative
+আচ্ছা চলো কথা বলি, Positive
+তোমার নাম কি, Positive
+কিসের মুড নাই, Negative
